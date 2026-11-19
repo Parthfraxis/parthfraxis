@@ -1,14 +1,13 @@
-<!-- OPTIONAL GIF: Upload a monochrome Musashi/Vagabond GIF to your repo as "musashi.gif" and uncomment the line below -->
-<!-- <img align="right" src="./musashi.gif" width="105" alt="Musashi" /> -->
+<img align="right" src="./musashi.gif" width="110" alt="Musashi" />
 
 <h2>Parth Sharma</h2>
 
-<p1>
+<p>
   <sub><b>BS Data Science & Applications @ IIT Madras</b> · Backend Systems & Applied AI/ML</sub><br/>
-  <a href="www.linkedin.com/in/parth-sharma-b57791256"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/parth-sharma-b57791256"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/Parth_skull/"><img src="https://img.shields.io/badge/LeetCode-18181B?style=flat-square" alt="LeetCode"/></a>
   <a href="mailto:parthsharmagoodboy@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=flat-square" alt="Email"/></a>
-</p1>
+</p>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3200&pause=2200&color=71717A&vCenter=true&width=720&height=26&lines=Step+by+step+walk+the+thousand-mile+road.+%E2%80%94+Musashi;He+has+the+most+who+is+most+content+with+the+least.+%E2%80%94+Diogenes;No+man+is+free+who+is+not+master+of+himself.+%E2%80%94+Epictetus;One+who+thinks+himself+free+is+free+indeed.+%E2%80%94+Ashtavakra" alt="Philosophy Quotes" />
@@ -16,7 +15,7 @@
 
 <table>
   <tr>
-    <td width="54%" valign="top">
+    <td width="52%" valign="top">
       <h4>Right now</h4>
       <ul>
         <li>Locking down math & CS fundamentals in my <b>IITM</b> foundation</li>
@@ -29,9 +28,9 @@
       </p>
       <p><code>Linux CLI</code> · <code>Git</code> · <code>VS Code</code></p>
     </td>
-    <td width="55%" valign="middle" align="center">
+    <td width="48%" valign="middle" align="center">
       <a href="https://leetcode.com/u/parth_skull">
-        <img src="https://leetcard.jacoblin.cool/parth_skull?theme=nord&font=Odor%20Mean%20Chey" width="450" alt="LeetCode Stats" />
+        <img src="https://leetcard.jacoblin.cool/parth_skull?theme=nord&font=Odor%20Mean%20Chey" width="420" alt="LeetCode Stats" />
       </a>
     </td>
   </tr>
