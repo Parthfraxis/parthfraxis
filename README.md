@@ -1,4 +1,4 @@
-<img align="left" src="./musashi.gif" width="100" alt="Musashi" />
+<img align="left" src="./musashi.jpg" width="100" alt="Musashi" />
 
 <h3>Parth Sharma</h3>
 
