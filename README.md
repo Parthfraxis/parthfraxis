@@ -1,6 +1,6 @@
-<img align="right" src="./musashi.gif" width="110" alt="Musashi" />
+<img align="left" src="./musashi.gif" width="100" alt="Musashi" />
 
-<h2>Parth Sharma</h2>
+<h3>Parth Sharma</h3>
 
 <p>
   <sub><b>BS Data Science & Applications @ IIT Madras</b> · Backend Systems & Applied AI/ML</sub><br/>
@@ -8,6 +8,8 @@
   <a href="https://leetcode.com/u/Parth_skull/"><img src="https://img.shields.io/badge/LeetCode-18181B?style=flat-square" alt="LeetCode"/></a>
   <a href="mailto:parthsharmagoodboy@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=flat-square" alt="Email"/></a>
 </p>
+
+<br clear="left"/>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3200&pause=2200&color=71717A&vCenter=true&width=720&height=26&lines=Step+by+step+walk+the+thousand-mile+road.+%E2%80%94+Musashi;He+has+the+most+who+is+most+content+with+the+least.+%E2%80%94+Diogenes;No+man+is+free+who+is+not+master+of+himself.+%E2%80%94+Epictetus;One+who+thinks+himself+free+is+free+indeed.+%E2%80%94+Ashtavakra" alt="Philosophy Quotes" />
