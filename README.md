@@ -1,44 +1,63 @@
-## Hi, I'm Parth
+# Parth
 
-**BS in Data Science & Applications @ IIT Madras**  
-Focused on **Backend Engineering & Applied AI / ML** · Daily DSA practitioner
+*BS in Data Science & Applications @ IIT Madras · Backend & Applied AI/ML*
 
-[LinkedIn](www.linkedin.com/in/parth-sharma-b57791256) · [LeetCode](https://leetcode.com/u/Parth_skull/) · [Email](mailto:parthsharmagoodboy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-connect-18181B?style=flat-square&labelColor=27272A)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LeetCode](https://img.shields.io/badge/leetcode-profile-18181B?style=flat-square&labelColor=27272A)](https://leetcode.com/u/YOUR_LEETCODE)
+[![Email](https://img.shields.io/badge/email-say_hi-18181B?style=flat-square&labelColor=27272A)](mailto:your.email@example.com)
+
+<br/>
+
+I'm a **Data Science & Applications** undergrad at **IIT Madras**, building my foundation from first principles with a long-term focus on **Backend Systems** and **Applied AI/ML**.
+
+### Right now
+- Working through my IITM foundation coursework and keeping my math and CS fundamentals tight.
+- Solving **DSA on LeetCode** daily — grinding my way toward Knight.
+- Getting comfortable living in the **Linux** and **Git** terminal before diving deep into backend architecture and ML engineering.
 
 ---
 
-### Current Focus
-- **Academics:** Foundation coursework in Data Science & Applications (IITM BS)
-- **DSA:** Solving daily problems on LeetCode — building toward Knight+
-- **Engineering:** Laying the groundwork for Backend & Applied AI/ML systems
+### Toolbox
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,git,vscode&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,git,vscode&theme=light">
+  <img alt="Current Tools" src="https://skillicons.dev/icons?i=linux,git,vscode&theme=dark" height="42">
+</picture>
 
-### Skills & Tools
-
-[![Skills](https://skillicons.dev/icons?i=linux,git,vscode)](https://skillicons.dev)
-
-- **Workflow & Environment:** Linux CLI, Git CLI, VS Code
+`Linux CLI` · `Git CLI` · `VS Code`
 
 <!--
-UPGRADE LATER: Add comma-separated icon IDs to the URL above as you learn them.
-Example: https://skillicons.dev/icons?i=linux,git,vscode,py,postgres,fastapi,docker,pytorch
+UPGRADE LATER:
+1. Append icon IDs to all three URLs above: py,postgres,fastapi,docker,pytorch,aws
+2. Split the monospace line into categories once you have 6+ skills:
+   **Languages:** `Python` · `SQL`
+   **Backend & AI:** `FastAPI` · `PostgreSQL` · `Docker` · `PyTorch`
+   **Environment:** `Linux CLI` · `Git` · `VS Code`
 -->
 
 ---
 
 ### Problem Solving
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=light,dark&ext=heatmap)](https://leetcode.com/u/Parth_skull/)
+<a href="https://leetcode.com/u/YOUR_LEETCODE">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&ext=heatmap&border=0&radius=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=light&ext=heatmap&border=0&radius=8">
+    <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&ext=heatmap&border=0&radius=8" width="460">
+  </picture>
+</a>
 
 <!--
-UPGRADE LATER: Once you start building a contest rating (Knight+), change `ext=heatmap` to `ext=contest` to show your rating graph.
+UPGRADE LATER: Change `ext=heatmap` to `ext=contest` in all three URLs above once you build your contest rating.
 -->
 
 <!--
 ---
 
-### Featured Projects (Uncomment once you build 2-3 solid projects)
-- **[Project Name](https://github.com/YOUR_GITHUB/repo)** — Brief description of the problem solved + tech stack
-- **[Project Name](https://github.com/YOUR_GITHUB/repo)** — Brief description of the problem solved + tech stack
+### Selected Work
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| **[Project Name](https://github.com/YOUR_GITHUB/repo)** | One-line summary of the problem it solves ([Demo](link)) | `Python` `FastAPI` `PostgreSQL` |
+| **[Project Name](https://github.com/YOUR_GITHUB/repo)** | One-line summary of the problem it solves ([Demo](link)) | `Python` `Docker` `PyTorch` |
 -->
