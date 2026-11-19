@@ -1,17 +1,17 @@
-<!-- OPTIONAL GIF: Upload a monochrome Vagabond/Musashi GIF to your repo as "musashi.gif" and uncomment the line below -->
+<!-- OPTIONAL GIF: Upload a monochrome Musashi/Vagabond GIF to your repo as "musashi.gif" and uncomment the line below -->
 <!-- <img align="right" src="./musashi.gif" width="105" alt="Musashi" /> -->
 
 <h2>Parth</h2>
 
 <p>
   <sub><b>BS Data Science & Applications @ IIT Madras</b> · Backend Systems & Applied AI/ML</sub><br/>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-18181B?style=flat-square" alt="LeetCode"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-18181B?style=flat-square" alt="Email"/></a>
+  <a href="www.linkedin.com/in/parth-sharma-b57791256"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/Parth_skull/"><img src="https://img.shields.io/badge/LeetCode-18181B?style=flat-square" alt="LeetCode"/></a>
+  <a href="mailto:parthsharmagoodboy@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=flat-square" alt="Email"/></a>
 </p>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3200&pause=2200&color=71717A&vCenter=true&width=700&height=26&lines=Step+by+step+walk+the+thousand-mile+road.+%E2%80%94+Miyamoto+Musashi;Today+is+victory+over+yourself+of+yesterday.+%E2%80%94+Miyamoto+Musashi;Do+nothing+which+is+of+no+use.+%E2%80%94+Miyamoto+Musashi" alt="Miyamoto Musashi Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3200&pause=2200&color=71717A&vCenter=true&width=720&height=26&lines=Step+by+step+walk+the+thousand-mile+road.+%E2%80%94+Musashi;He+has+the+most+who+is+most+content+with+the+least.+%E2%80%94+Diogenes;No+man+is+free+who+is+not+master+of+himself.+%E2%80%94+Epictetus;One+who+thinks+himself+free+is+free+indeed.+%E2%80%94+Ashtavakra" alt="Philosophy Quotes" />
 </p>
 
 <table>
@@ -23,33 +23,25 @@
         <li>Solving <b>DSA on LeetCode</b> daily — grinding toward Knight</li>
         <li>Getting fluent in <b>Linux</b> & <b>Git</b> before diving into backend architecture & ML</li>
       </ul>
-      <h4>Toolbox</h4>
+      <h4>Skills</h4>
       <p>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,git,vscode&theme=dark">
-          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,git,vscode&theme=light">
-          <img src="https://skillicons.dev/icons?i=linux,git,vscode&theme=dark" height="36" alt="Toolbox" />
-        </picture>
+        <img src="https://skillicons.dev/icons?i=linux,git,vscode&theme=dark" height="38" alt="Skills" />
       </p>
       <p><code>Linux CLI</code> · <code>Git</code> · <code>VS Code</code></p>
     </td>
     <td width="46%" valign="middle" align="center">
-      <a href="https://leetcode.com/u/YOUR_LEETCODE">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&ext=heatmap&border=0&radius=8">
-          <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=light&ext=heatmap&border=0&radius=8">
-          <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&ext=heatmap&border=0&radius=8" width="380" alt="LeetCode Stats" />
-        </picture>
+      <a href="https://leetcode.com/u/Parth_skull">
+        <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&ext=heatmap&border=0&radius=8" width="380" alt="LeetCode Stats" />
       </a>
     </td>
   </tr>
 </table>
 
 <!--
-UPGRADE LATER (stays horizontal, zero extra bloat):
-1. Toolbox: Append new icon IDs to all 3 skillicons URLs (e.g., py,postgres,fastapi,docker,pytorch).
-2. LeetCode: Swap `ext=heatmap` to `ext=contest` in all 3 URLs once you have a contest rating.
-3. Projects: Uncomment the 3-column horizontal strip below once you have 2-3 solid repos:
+UPGRADE LATER (stays single-page, zero bloat):
+1. Skills: Append icon IDs to the skillicons URL -> i=linux,git,vscode,py,postgres,fastapi,docker,pytorch
+2. LeetCode: Swap `ext=heatmap` to `ext=contest` once you start building a contest rating.
+3. Projects: Uncomment the 3-column strip below once you have 2-3 deployed/solid repos:
 
 <table>
   <tr>
